@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Tugas5RecyclerView-Buah</string>
+    <string name="Animal_Name">Nama Buah</string>
+    <string name="list">List</string>
+    <string name="grid">Grid</string>
+    <string name="with_cardview">With CardView</string>
+    <string name="description">Deskripsi</string>
+</resources>
